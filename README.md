@@ -18,11 +18,11 @@
     <sup>2</sup>WeChat Vision, Tencent Inc.&emsp; 
 </div>
 
-<div>
+<!-- <div>
     <h4 align="center">
         <a href="https://arxiv.org/abs/2508.18633"><img src='https://img.shields.io/badge/arXiv-ROSE-red' alt='Paper PDF'></a>
     </h4>
-</div>
+</div> -->
 
 
 
