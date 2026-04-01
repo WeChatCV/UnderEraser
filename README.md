@@ -43,74 +43,74 @@
   <tbody>
     <tr>
       <td>
-        <video src="asset/1_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/1_1.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
       <td>
-        <video src="asset/1_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <video src="asset/2_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-      <td>
-        <video src="asset/2_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/1_9.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
     </tr>
     <tr>
       <td>
-        <video src="asset/3_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/2_1.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
       <td>
-        <video src="asset/3_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <video src="asset/4_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-      <td>
-        <video src="asset/4_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/2_2.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
     </tr>
     <tr>
       <td>
-        <video src="asset/5_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/3_1.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
       <td>
-        <video src="asset/5_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <video src="asset/6_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-      <td>
-        <video src="asset/6_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/3_2.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
     </tr>
     <tr>
       <td>
-        <video src="asset/7_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/4_1.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
       <td>
-        <video src="asset/7_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <video src="asset/8_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
-      </td>
-      <td>
-        <video src="asset/8_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/4_2.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
     </tr>
     <tr>
       <td>
-        <video src="asset/9_1.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/5_1.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
       <td>
-        <video src="asset/9_2.mp4" width="100%" controls autoplay loop muted playsinline></video>
+        <img src="asset/5_2.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="asset/6_1.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+      <td>
+        <img src="asset/6_2.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="asset/7_1.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+      <td>
+        <img src="asset/7_2.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="asset/8_1.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+      <td>
+        <img src="asset/8_2.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="asset/9_1.gif" alt="..." style="flex: 1; min-width: 200px;">
+      </td>
+      <td>
+        <img src="asset/9_2.gif" alt="..." style="flex: 1; min-width: 200px;">
       </td>
     </tr>
   </tbody>
