@@ -139,7 +139,7 @@ Download the weights from this [`link`](https://drive.google.com/drive/folders/1
 
 
 We use pretrained [`Wan2.1-Fun-V1.1-14B-InP`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-V1.1-14B-InP) as our base model. 
-You can download the Wan2.1-Fun-1.3B-InP base model from this [`link`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-V1.1-14B-InP). Put the whole folder under the folder [`models`](./models). 
+You can download the Wan2.1-Fun-14B-InP base model from this [`link`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-V1.1-14B-InP). Put the whole folder under the folder [`models`](./models). 
 
 The [`models`](./models) will be arranged like this:
 ```
