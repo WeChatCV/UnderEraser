@@ -182,7 +182,7 @@ The test datasets are available at this [`link`](https://drive.google.com/drive/
    If you find our repo useful for your research, please consider citing our paper:
 
    ```bibtex
-   @article{miao2025rose,
+   @article{liu2026eraser,
       title={From Understanding to Erasing: Towards Complete and Stable Video Object Removal}, 
       author={Liu, Dingming and Wang, Wenjing and Li, Chen and LYU, Jing},
       journal={arXiv preprint},
